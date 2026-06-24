@@ -91,9 +91,9 @@ function Hero() {
         <div className="max-w-3xl reveal">
           <div className="text-[11px] tracking-[0.4em] uppercase mb-8 text-ivory/70">مجموعه‌ی زمستان ۱۴۰۴ — اشیای امضا</div>
           <h1 className="font-serif text-5xl md:text-7xl lg:text-[88px] leading-[1.05] text-balance text-ivory">
-            پاسخی مینی‌مال
+            پاسخی 
             <br />
-            <em className="not-italic text-accent">به هیاهوی</em> جهان.
+            <em className="not-italic text-accent">مینیمال</em> به هیاهوی جهانِ
           </h1>
           <p className="mt-10 text-lg md:text-xl leading-loose text-ivory/80 max-w-xl">
             اشیایی که برای دیده شدن فریاد نمی‌زنند،
@@ -168,7 +168,7 @@ function Collections() {
           <div>
             <div className="text-[11px] tracking-[0.4em] uppercase text-foreground/50 mb-4">— مجموعه‌های جدید</div>
             <h3 className="font-serif text-3xl md:text-5xl text-balance">
-              تازه‌های مجموعهٔ <em className="not-italic text-walnut">حلقه‌ها</em>
+               آفرینه‌های <em className="not-italic text-walnut">هـیر</em>
             </h3>
           </div>
           <a href="#" className="hidden md:inline-flex items-center gap-3 text-[12px] tracking-[0.3em] uppercase hover:text-accent transition-colors border-b border-foreground/30 pb-2">
