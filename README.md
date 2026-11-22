@@ -46,54 +46,51 @@
 
 ---
 
-## گالری پروژه## Project Screenshots
+## گالری پروژه
+## Project Screenshots
 
 <table>
   <tr>
-    <td colspan="2" align="center">
+    <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/905da6cc-b776-466f-8997-346ebc217c70" width="100%" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/533a1403-5c5b-4c2c-ad32-3b054d735ff5" width="100%" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/58a48392-c5c5-4cd7-9ce7-eb7cfcd4d72e" width="100%" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/12218393-18b6-400e-bbd4-49d43581b2fc" width="100%" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/cd1126d-d3e5-4930-9a43-06b56c8ca877" width="100%" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/f7a4143c-6a4f-4032-8918-6a0f7852502e" width="100%" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/9aa51b1e-a23a-44fe-8729-9e517469ad7d" width="100%" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/d352c6e3-5535-46df-9438-1aa842384d89" width="100%" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/58b915f0-d089-4771-9cd1-42ed76193614" width="100%" />
-    </td>
   </tr>
   <tr>
     <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/58b915f0-d089-4771-9cd1-42ed76193614" width="100%" />
+    </td>
+    <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/9ad9d819-daa0-4853-8748-0e402c7493b8" width="100%" />
     </td>
-    <td width="50%" align="center"></td>
   </tr>
 </table>
-
 ---
 ## قابلیت‌ها
 
