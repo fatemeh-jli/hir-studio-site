@@ -46,64 +46,35 @@
 ---
 
 ## گالری پروژه
-
-### صفحه اصلی
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/905da6cc-b776-466f-8997-346ebc217c70" width="100%" alt="صفحه اصلی هیر استودیو" />
-</p>
+## Project Screenshots
 
 <p align="center">
-  <sub>معرفی برند، فضای بصری و تجربه اولیه ورود به فروشگاه</sub>
+  <img src="https://github.com/user-attachments/assets/905da6cc-b776-466f-8997-346ebc217c70" width="100%" />
 </p>
 
-### فروشگاه و محصولات
-
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/533a1403-5c5b-4c2c-ad32-3b054d735ff5" width="100%" alt="گالری محصولات هیر" />
-      <b>گالری محصولات</b>
-      <p><sub>مرور محصولات در قالب یک گالری مینیمال</sub></p>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/533a1403-5c5b-4c2c-ad32-3b054d735ff5" width="100%" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/58a48392-c5c5-4cd7-9ce7-eb7cfcd4d72e" width="100%" alt="صفحه جزئیات محصول هیر" />
-      <b>صفحه جزئیات محصول</b>
-      <p><sub>تصاویر، جزئیات، قیمت و گزینه‌های خرید</sub></p>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/58a48392-c5c5-4cd7-9ce7-eb7cfcd4d72e" width="100%" />
     </td>
   </tr>
-</table>
-
-### شخصی‌سازی و تجربه تعاملی
-
-<table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/12218393-18b6-400e-bbd4-49d43581b2fc" width="100%" alt="شخصی سازی محصول" />
-      <b>شخصی‌سازی محصولات</b>
-      <p><sub>انتخاب ویژگی‌ها و مشاهده قیمت متناسب با گزینه‌های انتخابی</sub></p>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/12218393-18b6-400e-bbd4-49d43581b2fc" width="100%" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/cd1126d-d3e5-4930-9a43-06b56c8ca877" width="100%" alt="نمای رابط کاربری هیر استودیو" />
-      <b>تجربه خرید</b>
-      <p><sub>طراحی رابط کاربری در بخش‌های مختلف فروشگاه</sub></p>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/cd1126d-d3e5-4930-9a43-06b56c8ca877" width="100%" />
     </td>
   </tr>
-</table>
-
-### قابلیت‌های هوشمند و حساب کاربری
-
-<table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/f7a4143c-6a4f-4032-8918-6a0f7852502e" width="100%" alt="AI Space Designer" />
-      <b>AI Space Designer</b>
-      <p><sub>تحلیل رنگ فضای کاربر و پیشنهاد نوع چوب هماهنگ با محیط</sub></p>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/f7a4143c-6a4f-4032-8918-6a0f7852502e" width="100%" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/9aa51b1e-a23a-44fe-8729-9e517469ad7d" width="100%" alt="صفحه ثبت نام هیر استودیو" />
-      <b>حساب کاربری</b>
-      <p><sub>ثبت‌نام و تجربه کاربری فارسی</sub></p>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/9aa51b1e-a23a-44fe-8729-9e517469ad7d" width="100%" />
     </td>
   </tr>
 </table>
