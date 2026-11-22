@@ -68,10 +68,10 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/cd1126d-d3e5-4930-9a43-06b56c8ca877" width="100%" />
+      <img src="https://github.com/user-attachments/assets/337fc259-e96d-4079-b785-2600296017b9" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/f7a4143c-6a4f-4032-8918-6a0f7852502e" width="100%" />
+      <img src="https://github.com/user-attachments/assets/6ba2f185-573f-4549-afd7-d7d2d70169cb" width="100%" />
     </td>
   </tr>
   <tr>
@@ -91,7 +91,8 @@
     </td>
   </tr>
 </table>
----
+
+
 ## قابلیت‌ها
 
 ### فروشگاه
